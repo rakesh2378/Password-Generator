@@ -26,10 +26,10 @@ Generate strong and secure passwords with this Python-based Password Generator A
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/lordlughas/CODSOFT/password_generator.git
+https://github.com/rakesh2378/Password-Generator.git
 
 Run the application:
-`python password.py`
+`Password_Gen.py`
 ```
 ## Requirements
   * Python 3.x
